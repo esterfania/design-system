@@ -1,7 +1,7 @@
 {
   "name": "@acme/docs",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "next build",
     "start": "next start ",
